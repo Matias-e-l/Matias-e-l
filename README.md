@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Matías!
+
+🌦️ Currently focused on developing a weather station with the LPC845 Breakout Board.
 
 <!--
 **Matias-e-l/Matias-e-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
